@@ -8,10 +8,10 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** Node.js, Express.js, PHP  
-- **Banco de Dados:** MySQL, PostgreSQL (aprendendo)  
-- **Outros:** Git, Linux, Docker (básico)  
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js e Tailwind CSS  
+- **Backend:** Node.js, Express.js, PHP, Java e Python
+- **Banco de Dados:** MySQL, SQL Oracle e SQL Server
+- **Outros:** Git, Linux, Docker (básico)
 
 ---
 
