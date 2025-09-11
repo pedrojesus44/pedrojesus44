@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Pedro Jesus
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.  
-💻 Experiência em **desenvolvimento web** (PHP, Node.js, Express, React, Tailwind CSS).  
+💻 Experiência em **desenvolvimento web** (PHP, Node.js, Express, React, Next.js e Tailwind CSS).  
 🚀 Apaixonado por **tecnologia, inovação e resolução de problemas**.  
 📍 Atualmente estagiário de **suporte em TI** na Subprefeitura Aricanduva.  
 
