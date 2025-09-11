@@ -16,8 +16,8 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [**ZoonoSpot**](#) – Sistema de denúncias de zoonoses (PHP → migrando para Node.js/React).  
-- [**Criança feliz**](#) – Blog para instituição Criança Feliz em **Wordpress**
+- [**ZoonoSpot**](https://github.com/pedrojesus44/ZoonoSpotTCC) – Sistema de denúncias de zoonoses (PHP → migrando para Node.js/React).  
+- [**Criança Feliz**](https://criancafelizinstituto.com.br) – Blog para instituição Criança Feliz em **PHP em Wordpress**
 - [**Trabalhos Acadêmicos**](#) – Projetos de estudo em **PHP, Node.js, React Native, Java, Python, SQL, BPMN e Cloud**.  
 
 ---
