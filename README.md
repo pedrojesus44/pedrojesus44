@@ -1,16 +1,17 @@
 # 👋 Olá, eu sou o Pedro Jesus
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.  
+🎓 Analista e Desenvolvedor de Sistemas**
 💻 Experiência em **desenvolvimento web** (PHP, Node.js, Express, React, Next.js e Tailwind CSS).  
 🚀 Apaixonado por **tecnologia, inovação e resolução de problemas**.  
-📍 Atualmente estagiário de **suporte em TI** na Subprefeitura Aricanduva.  
+📍 Atuando como **Assistente de Suporte Cloud** na **ScanSource Brasil** 
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+- **Cloud:** Oracle Cloud Infrastructure (Architect Associate)
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js e Tailwind CSS  
 - **Backend:** Node.js, Express.js, PHP, Java e Python
-- **Banco de Dados:** MySQL, SQL Oracle e SQL Server
+- **Banco de Dados:** MySQL, SQL Oracle, SQL Server e PostgreSQL
 - **Outros:** Git, Linux, Docker (básico)
 
 ---
