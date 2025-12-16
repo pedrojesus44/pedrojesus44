@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro Jesus
 
-🎓 **Analista e Desenvolvedor de Sistemas**.
+🎓 Graduado como **Analista e Desenvolvedor de Sistemas**.
 💻 Experiência em **desenvolvimento web** (PHP, Node.js, Express, React, Next.js e Tailwind CSS).  
 🚀 Apaixonado por **tecnologia, inovação e resolução de problemas**.  
 📍 Atuando como **Assistente de Suporte Cloud** na **ScanSource Brasil** 
