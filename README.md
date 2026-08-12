@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Pedro Jesus
 
 🎓 **Analista e Desenvolvedor de Sistemas**.
-💻 Experiência em **desenvolvimento web** (PHP, Node.js, Express, React, Next.js e Tailwind CSS).  
+💻 Experiência em **desenvolvimento web** (Next.js, TailwindCSS, PHP).  
 🚀 Apaixonado por **tecnologia, inovação e resolução de problemas**.  
 📍 Atuando como **Assistente de Suporte Cloud** na **ScanSource Brasil** 
 
@@ -9,10 +9,10 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Cloud:** Oracle Cloud Infrastructure (Architect Associate)
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js e Tailwind CSS  
-- **Backend:** Node.js, Express.js, PHP, Java e Python
+- **Frontend:** Next.js, Tailwind CSS  
+- **Backend:** Typescript, Python, PHP
 - **Banco de Dados:** MySQL, SQL Oracle, SQL Server e PostgreSQL
-- **Outros:** Git, Linux, Docker (básico)
+- **Outros:** Git, Linux, Docker
 
 ---
 
